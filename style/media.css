@@ -1,0 +1,32 @@
+@media (max-width: 1200px) {
+    .hero {
+        background-size: 63%;
+        padding: 102px;
+        height: 90vh;
+    }
+
+    .works__confetti {
+        display: none;
+    }
+
+    .insurance__umbrella {
+        width: 30%;
+        top: -80px;
+    }
+
+    .get-started__drop1 {
+        left: -50px;
+    }
+
+    .get-started__drop2 {
+        right: 150px;
+    }
+
+    .footer__info {
+        margin-right: 80px;
+    }
+
+    .footer__info .section__desc {
+        width: 450px;
+    }
+}
